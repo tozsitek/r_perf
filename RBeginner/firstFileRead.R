@@ -1,4 +1,5 @@
 # when running this, it'll prompt to select a file
+# using file: ...sandbox>R_Udemy>P2-Mispriced-Diamonds.csv
 mydata <- read.csv(file.choose())
 # file from: 
 #install.packages("ggplot2")
